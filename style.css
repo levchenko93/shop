@@ -128,7 +128,7 @@ input[type=text] {
   justify-content: center;
 }
 
-.leatest-gear-online {
+.leatest-gear-title {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -136,14 +136,14 @@ input[type=text] {
   margin-left: -320px;
 }
 
-.leatest-gear-online p {
+.leatest-gear-title p {
   color: #444;
   font-family: 'Courgette', cursive;
   font-size: 18px;
   margin: 0;
 }
 
-.leatest-gear-online span {
+.leatest-gear-title span {
   color: #bbc68d;
   font-family: 'Courgette', cursive;
   font-size: 50px;
@@ -262,7 +262,7 @@ input[type=text] {
 
 /* --Popucal-products-- */
 
-.popucal-products {
+.popular-products {
   height: 500px;
 }
 
@@ -325,7 +325,7 @@ input[type=text] {
 
 .blog-post-name {
   color: #3d4040;
-  font-size: 15px;
+  font-size: 16px;
   text-transform: uppercase;
   margin-top: 30px;
 }
@@ -398,11 +398,11 @@ input[type=text] {
   padding-bottom: 40px;
 }
 
-.stay-updateed-text {
+.stay-updateed-title {
   margin-left: -15px;
 }
 
-.stay-updateed-text p {
+.stay-updateed-title p {
   font-size: 20px;
   color: #bfca95;
   letter-spacing: 1px;
